@@ -29,3 +29,9 @@ We used the following components in our design:
 - 4.7k Potentiometer (screen contrast trimming)
 - Adafruit Bluefruit EZ-Link
 - WS2812B 1 meter strip with 144 LED's
+
+
+## Credits
+
+This code was created as a collaboration between myself and Michael Meli (mjmeli).
+The overall project was created by Michael Meli, Brian Iezzi, Brian Murphy, and myself.
